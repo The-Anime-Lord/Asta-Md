@@ -17,9 +17,9 @@ global.github = process.env.GITHUB || "https://github.com/Astropeda/Asta-Md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/ZkBjWK2.jpg";
-global.devs = "2348039607375";
-global.sudo = process.env.SUDO || "2348039607375";
-global.owner = process.env.OWNER_NUMBER || "2348039607375";
+global.devs = "2348179387119";
+global.sudo = process.env.SUDO || "2348179387119";
+global.owner = process.env.OWNER_NUMBER || "2348179387119";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "ᴀsᴛᴀ ᴍᴅ",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "ᴀsᴛᴀ ᴍᴅ",
-  ownername: process.env.OWNER_NAME || "ᴀsᴛᴀ",
+  ownername: process.env.OWNER_NAME || "...No Name...",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
